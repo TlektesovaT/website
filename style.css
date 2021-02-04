@@ -1,0 +1,17 @@
+body {
+  font-size: 30px;
+  font-family: 'Slabo 27px', serif;
+}
+.top-container{
+  background-color: #ffe8e8;
+  position: relative;
+  padding-top: 10px;
+}
+.middle-container{
+  background-color: white;
+  padding-top:30px;
+  text-align: center;
+}
+.bottom-container{
+  background: #ffe8e8;
+}
